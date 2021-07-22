@@ -1,0 +1,1 @@
+Program to check if credit card number provided by the user is valid. And if valid, prints the card type (American Express, Mastercard, or Visa). As a bonus, I added the check for Nigerian Verve cards. 😉
