@@ -40,7 +40,7 @@ So, validating credit card numbers isn’t hard, but it does get a bit tedious b
 
 Consider the below representative of how your own program should behave when passed a valid credit card number (sans hyphens).
 
-`
+```
 $ ./credit
 Number: 4003600000000014
 VISA
@@ -56,7 +56,7 @@ But it’s up to you to catch inputs that are not credit card numbers (e.g., a p
 $ ./credit
 Number: 6176292929
 INVALID
-`
+```
 
 Test out your program with a whole bunch of inputs, both valid and invalid. (We certainly will!) Here are a few card numbers that PayPal recommends for testing.
 
