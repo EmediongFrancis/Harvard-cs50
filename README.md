@@ -1,2 +1,3 @@
+# Intro...
 A repository of my projects during the Harvard cs50 course duration. Some programs have been modified by me to include some other functionality separate from the ones sought for in the course. But the basic (required) functionalities remain therein.
 Bear in mind that some functions are declared in the cs50 header file and the code might not run on your local machine exactly the way it is written here. Might update the code later, but for now you can write the function yourself. 😁
