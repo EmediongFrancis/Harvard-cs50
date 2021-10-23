@@ -1,0 +1,1 @@
+A program that calculates the grade-level readability of a text based on the Coleman-Lieu index.
